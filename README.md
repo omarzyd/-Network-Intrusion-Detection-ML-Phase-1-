@@ -19,7 +19,7 @@ We were given a dataset mimicking a **military network environment**, where each
 - ✅ `normal`
 - ⚠️ `anomaly` (potential intrusion)
 
-The catch? Anomalies were rare — just like real cyberattacks. This **class imbalance** forced us to think beyond accuracy and dive into **precision, recall, and smarter techniques like SMOTE**.
+The catch? Anomalies were rare just like real cyberattacks. This **class imbalance** forced us to think beyond accuracy and dive into **precision, recall, and smarter techniques like SMOTE**.
 
 ---
 
