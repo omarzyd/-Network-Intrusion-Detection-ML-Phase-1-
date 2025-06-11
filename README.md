@@ -53,7 +53,17 @@ We trained and tested each model and evaluated them using:
 - **Recall**
 - **F1-Score**
 
-(📌 *We’ll upload the final scores and confusion matrices soon!*)
+1. Decision Tree performance measures : 
+![image](https://github.com/user-attachments/assets/0eba95d2-3daa-4d61-a954-7b131e705302)
+
+2. Logistic Regression performance measures :
+![image](https://github.com/user-attachments/assets/5f0cd2c3-fee3-4fce-be5a-072164e29247)
+
+3. KNN performance measures at k = 5 :
+![image](https://github.com/user-attachments/assets/2f057fa5-252e-47a0-9063-73621b28134a)
+
+4. Voting performance measures :
+![image](https://github.com/user-attachments/assets/490749de-3667-41bd-9c50-5f6780c3f038)
 
 ---
 
@@ -81,11 +91,4 @@ If there’s one thing we learned, it’s that **good code is written, but great
 
 ## 💡 Key Takeaways
 
-- Machine learning isn’t just about algorithms — it’s about asking the right questions.
-- Class imbalance can break models — but with the right techniques, it can be handled.
-- Collaboration, documentation, and version control (thanks GitHub!) matter as much as the code itself.
-
----
-
-## 🗂️ Repo Structure
-
+Overall, the project demonstrated that ensemble methods like Soft Voting can significantly improve model performance, making them a good choice for tasks such as network intrusion detection, where accuracy and reliability are crucial.
