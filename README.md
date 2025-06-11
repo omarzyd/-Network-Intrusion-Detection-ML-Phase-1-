@@ -8,7 +8,7 @@ Welcome to our Machine Learning project a hands-on journey where we tackled a re
 
 In a world increasingly dependent on digital systems, securing networks is no longer optional, it’s essential. We set out to build a model that could **detect anomalies in network traffic**, potentially flagging cyberattacks before they cause harm.  
 
-This project taught us more than just models and metrics — it was about **collaboration, problem-solving, and thinking critically under constraints**.
+This project taught us more than just models and metrics, it was about **collaboration, problem-solving, and thinking critically under constraints**.
 
 ---
 
