@@ -2,7 +2,7 @@
 
 # 🛡️ Network Intrusion Detection using Machine Learning (Phase 1)
 
-Welcome to our Machine Learning project from **CSAI 253 (Spring 2025)** — a hands-on journey where we tackled a real-world cybersecurity problem with a team of passionate learners.
+Welcome to our Machine Learning project a hands-on journey where we tackled a real-world cybersecurity problem with a team of passionate learners.
 
 ---
 
