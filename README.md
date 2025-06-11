@@ -1,5 +1,3 @@
-# -Network-Intrusion-Detection-ML-Phase-1-
-
 # 🛡️ Network Intrusion Detection using Machine Learning (Phase 1)
 
 Welcome to our Machine Learning project a hands-on journey where we tackled a real-world cybersecurity problem with a team of passionate learners.
