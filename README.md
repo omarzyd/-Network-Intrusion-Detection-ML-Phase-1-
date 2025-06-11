@@ -67,15 +67,25 @@ We trained and tested each model and evaluated them using:
 
 ---
 
-## 🤝 Collaboration
+---
 
-This project wasn’t a solo mission — it was a true team effort. We divided tasks smartly:
-- One of us focused on **EDA and visualization**
-- Another handled **model implementation**
-- Others worked on **feature engineering**, **resampling**, and **evaluation**
-- We constantly reviewed each other’s work to ensure consistency and quality
+## 👥 Team Collaboration
 
-If there’s one thing we learned, it’s that **good code is written, but great code is reviewed.**
+We worked as a team of four, divided into two focused sub-teams:
+
+### 🧪 Preprocessing & EDA Team
+- **Omar (me)** – Missing value handling, encoding strategies, feature selection
+- **Farida** – Outlier detection, scaling, visualization, correlation analysis
+
+They worked closely to ensure the dataset was clean, well-represented, and ready for high-quality modeling.
+
+### 🤖 Modeling & Tuning Team
+- **Malak** – Model training, evaluation metrics, ensemble design
+- **Azza** – Hyperparameter tuning, model blending
+
+This team explored a wide range of algorithms, optimized their performance, and built the final ensemble that was submitted for competition.
+
+We synchronized our workflow using shared notebooks and real-time collaboration to review decisions, discuss trade-offs, and iterate quickly.
 
 ---
 
